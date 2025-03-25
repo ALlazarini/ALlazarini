@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is André and I'm a student, from UFU</h2>
+<h2 align="center">sou o André e sou um estudante da UFU!</h2>
 
 ###
 
