@@ -19,7 +19,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+ 
 <img src="https://logo-teka.com/wp-content/uploads/2025/09/java-icon-logo.svg" alt="Java logo" width="28" /> Java
 </div>
 
